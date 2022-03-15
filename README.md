@@ -2,4 +2,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kx0101&layout=compact&theme=dark)](https://github.com/kx0101/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kx0101&repo=website)](https://github.com/kx0101/website)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kx0101&repo=pizzawebsite-main&theme=dark)](https://github.com/kx0101/pizzawebsite-main)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kx0101&repo=Real-Estate-Marketplace&theme=dark)](https://github.com/kx0101/Real-Estate-Marketplace)
