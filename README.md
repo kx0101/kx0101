@@ -2,4 +2,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kx0101&layout=compact&theme=dark)](https://github.com/kx0101/github-readme-stats)
 
-[![Elijah's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kx0101&theme=dark)](https://github.com/kx0101/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kx0101&repo=website)](https://github.com/kx0101/github-readme-stats)
