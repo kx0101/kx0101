@@ -7,6 +7,8 @@
 
 - 🔭 I’m currently studing at [University of Thessaly](https://ds.uth.gr/)
 
+- :pencil: Practicing Data Structures & Algorithms, solving problems in LeetCode.
+
 - 💬 Ask me about **React, Redux, NodeJS, ExpressJS, MongoDB**
 
 - 📫 How to reach me **liakos.koulaxis@yahoo.com**
