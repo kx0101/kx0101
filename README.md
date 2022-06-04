@@ -9,6 +9,8 @@
 
 - :pencil: Practicing Data Structures & Algorithms, solving problems in LeetCode.
 
+- :pencil: Learning/Practicing the MERN stack.
+
 - 💬 Ask me about **React, Redux, NodeJS, ExpressJS, MongoDB**
 
 - 📫 How to reach me **liakos.koulaxis@yahoo.com**
