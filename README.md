@@ -19,7 +19,6 @@
 
 <h3 align="left">▶ Connect with me:</h3>
 <p align="left">
-  <a href="https://elijahkoulaxis.pages.dev/" target="blank"><img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-rainbow.svg" alt="me" height="30" width="40" /></a>
   <a href="https://www.instagram.com/liakoskx/" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/instagram.svg" alt="code.bucks" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/elijah-koulaxiskx/" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/linked-in-alt.svg" alt="code_bucks" height="30" width="40" /></a>
 
