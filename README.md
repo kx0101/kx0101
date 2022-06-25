@@ -11,7 +11,7 @@
 
 - :pencil: Practicing Data Structures & Algorithms, solving problems in LeetCode.
 
-- :pencil: Learning/Practicing the MERN stack.
+- :pencil: Learning/Practicing the MERN stack as well as some 🦀Rust every now and then.
 
 - 💬 Ask me about **React, Redux, NodeJS, ExpressJS, MongoDB**
 
