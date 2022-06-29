@@ -13,7 +13,7 @@
 
 - :pencil: Learning/Practicing the MERN stack as well as some 🦀Rust every now and then.
 
-- 💬 Ask me about **React, Redux, NodeJS, ExpressJS, MongoDB**
+- 💬 Ask me about **React, Redux, NodeJS, ExpressJS, MongoDB, Rust**
 
 - 📫 How to reach me **liakos.koulaxis@yahoo.com**
 
