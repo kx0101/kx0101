@@ -9,7 +9,7 @@
 
 - :books: Working as an Intern in Netcompany-Intrasoft as a Software Engineer specializing in React.
 
-- :pencil: Practicing Data Structures & Algorithms, solving problems in LeetCode.
+- :pencil: Practicing Data Structures & Algorithms, solving problems in LeetCode/Exercism.
 
 - :pencil: Learning/Practicing the MERN stack as well as some 🦀Rust every now and then.
 
