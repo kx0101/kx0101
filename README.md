@@ -5,7 +5,7 @@
 </br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kx0101&label=Profile%20views&color=0e75b6&style=flat" alt="kx0101" /> </p>
 
-- 🔭 I’m currently studing at [University of Thessaly](https://ds.uth.gr/)
+- 🔭 I’m currently studying at [University of Thessaly](https://ds.uth.gr/)
 
 - :books: Working as an Intern at Netcompany Intrasoft as a Software Engineer specializing in React.
 
