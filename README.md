@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Elijah</h1>
-<h3 align="center">An ambitious Software Engineer, who loves to build!😄
+<h1 align="center">Hello 👋, I'm Elijah</h1>
+<h3 align="center">An ambitious and visionary Software Engineer, who loves to create!😄
 </h3>
 
 </br>
@@ -16,6 +16,8 @@
 - 💬 Ask me about **React, Redux, NodeJS, ExpressJS, MongoDB, Rust**
 
 - 📫 How to reach me **liakos.koulaxis@yahoo.com**
+
+- ❤️ Vim lover 
 
 </br>
 
