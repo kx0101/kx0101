@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **liakos.koulaxis@yahoo.com**
 
-- ❤️ Vim lover 
+- ❤️ **Vim** user
 
 </br>
 
