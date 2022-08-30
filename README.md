@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently studying at [University of Thessaly](https://ds.uth.gr/)
 
-- :books: Working as an Intern at Netcompany Intrasoft as a Software Engineer specializing in React.
+- :books: Working as a Junior Software Engineer at Netcompany Intrasoft.
 
 - :pencil: Practicing Data Structures & Algorithms, solving problems in LeetCode/Exercism.
 
