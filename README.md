@@ -41,6 +41,7 @@
 ## Dotfiles
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kx0101&repo=.dotfiles&theme=dark&langs_count=3)](https://github.com/kx0101/.dotfiles) 
 
+## Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kx0101&repo=pizzawebsite-main&theme=dark&langs_count=3)](https://github.com/kx0101/pizzawebsite-main)       
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kx0101&repo=Real-Estate-Marketplace&theme=dark&langs_count=3)](https://github.com/kx0101/Real-Estate-Marketplace) <br />
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kx0101&repo=eshop-sxolh&theme=dark&langs_count=3)](https://github.com/kx0101/eshop-sxolh)
