@@ -36,8 +36,6 @@
 </br>
 </br>
 
-[![Elijah's GitHub stats](https://github-readme-stats.vercel.app/api?username=kx0101&show_icons=true&theme=dark)](https://github.com/kx0101/github-readme-stats)
-
 ## Dotfiles
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kx0101&repo=.dotfiles&theme=dark&langs_count=3)](https://github.com/kx0101/.dotfiles) 
 
