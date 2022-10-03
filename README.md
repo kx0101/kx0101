@@ -9,9 +9,9 @@
 
 - :books: Working as a **Junior Software Engineer** at *Netcompany Intrasoft.*
 
-- :pencil: Practicing Data Structures & Algorithms, solving problems in LeetCode/Exercism.
+- :pencil: Practicing Data Structures & Algorithms, solving problems in Leetcode.
 
-- :pencil: Learning/Practicing the MERN stack as well as some 🦀Rust every now and then.
+- :pencil: Learning/Practicing the MERN stack as well as some 🦀Rust, every now and then.
 
 - 💬 Ask me about **React, Redux, NodeJS, ExpressJS, MongoDB, Rust**
 
