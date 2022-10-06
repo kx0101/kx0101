@@ -5,11 +5,11 @@
 </br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kx0101&label=Profile%20views&color=0e75b6&style=flat" alt="kx0101" /> </p>
 
-- 🔭 I’m currently studying at [University of Thessaly](https://ds.uth.gr/)
+- 🔭 I’m currently studying Computer Science at [University of Thessaly](https://ds.uth.gr/)
 
 - :books: Working as a **Junior Software Engineer** at *Netcompany Intrasoft.*
 
-- :pencil: Practicing Data Structures & Algorithms, solving problems in Leetcode.
+- :pencil: Practicing Data Structures & Algorithms, solving problems on Leetcode.
 
 - :pencil: Learning/Practicing the MERN stack as well as some 🦀Rust, every now and then.
 
