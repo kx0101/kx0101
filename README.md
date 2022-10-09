@@ -9,7 +9,7 @@
 
 - :books: Working as a **Junior Software Engineer** at *Netcompany Intrasoft.*
 
-- :pencil: Practicing Data Structures & Algorithms, solving problems on Leetcode.
+- :pencil: Practicing Data Structures & Algorithms, solving problems on Leetcode. [Profile](https://leetcode.com/kx_01/)
 
 - :pencil: Learning/Practicing the MERN stack as well as some 🦀Rust, every now and then.
 
