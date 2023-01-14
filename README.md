@@ -37,14 +37,14 @@
 </br>
 
 ## Dotfiles
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kx0101&repo=.dotfiles&theme=dark&langs_count=3)](https://github.com/kx0101/.dotfiles) 
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=kx0101&repo=.dotfiles&theme=dark&langs_count=3)](https://github.com/kx0101/.dotfiles) 
 
 ## Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kx0101&repo=pizzawebsite-main&theme=dark&langs_count=3)](https://github.com/kx0101/pizzawebsite-main)       
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kx0101&repo=Real-Estate-Marketplace&theme=dark&langs_count=3)](https://github.com/kx0101/Real-Estate-Marketplace) <br />
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kx0101&repo=eshop-sxolh&theme=dark&langs_count=3)](https://github.com/kx0101/eshop-sxolh)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kx0101&repo=http-server-rust&theme=dark&langs_count=3)](https://github.com/kx0101/http-server-rust)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kx0101&repo=NFT-Card-Game&theme=dark&langs_count=3)](https://github.com/kx0101/NFT-Card-Game)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=kx0101&repo=Invaders&theme=dark&langs+count=3)](https://github.com/kx0101/Invaders)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=kx0101&repo=pizzawebsite-main&theme=dark&langs_count=3)](https://github.com/kx0101/pizzawebsite-main)       
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=kx0101&repo=Real-Estate-Marketplace&theme=dark&langs_count=3)](https://github.com/kx0101/Real-Estate-Marketplace) <br />
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=kx0101&repo=eshop-sxolh&theme=dark&langs_count=3)](https://github.com/kx0101/eshop-sxolh)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=kx0101&repo=http-server-rust&theme=dark&langs_count=3)](https://github.com/kx0101/http-server-rust)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=kx0101&repo=NFT-Card-Game&theme=dark&langs_count=3)](https://github.com/kx0101/NFT-Card-Game)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin?username=kx0101&repo=Invaders&theme=dark&langs+count=3)](https://github.com/kx0101/Invaders)
 
 </br>
