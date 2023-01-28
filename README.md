@@ -11,13 +11,11 @@
 
 - :pencil: Practicing Data Structures & Algorithms, solving problems on Leetcode. [Profile](https://leetcode.com/kx_01/)
 
-- :pencil: Learning/Practicing the MERN stack as well as some 🦀Rust, every now and then.
-
-- 💬 Ask me about **React, Redux, NodeJS, ExpressJS, MongoDB, Rust**
-
 - 📫 How to reach me **liakos.koulaxis@yahoo.com**
 
 - ❤️ **Vim** user
+
+- ❤️ https://www.youtube.com/shorts/yhT73UDOfOc ❤️
 
 </br>
 
