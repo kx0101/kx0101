@@ -43,7 +43,6 @@
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=kx0101&repo=eshop-sxolh&theme=dark&langs_count=3)](https://github.com/kx0101/eshop-sxolh)
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=kx0101&repo=http-server-rust&theme=dark&langs_count=3)](https://github.com/kx0101/http-server-rust)
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=kx0101&repo=NFT-Card-Game&theme=dark&langs_count=3)](https://github.com/kx0101/NFT-Card-Game)
-[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin?username=kx0101&repo=Invaders&theme=dark&langs+count=3)](https://github.com/kx0101/Invaders)
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin?username=kx0101&repo=car-meme-game&theme=dark&langs+count=3)](https://github.com/kx0101/car-meme-game)
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin?username=kx0101&repo=cli-todo-list&theme=dark&langs+count=3)](https://github.com/kx0101/cli-todo-list)
 
