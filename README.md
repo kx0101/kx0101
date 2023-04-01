@@ -1,19 +1,18 @@
-<h1 align="center">Hello 👋, I'm Elijah</h1>
+<h2 align="center">Hello 👋, I'm Elijah</h1>
 <h3 align="center">An ambitious and visionary Software Engineer, who loves to build performant projects, understand memory, and ultimately craft really awesome software!😄
 </h3>
 
 </br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kx0101&label=Profile%20views&color=0e75b6&style=flat" alt="kx0101" /> </p>
 
 - 🔭 I’m currently studying Computer Science at [University of Thessaly](https://ds.uth.gr/)
 
 - :books: Working as a **Junior Software Engineer** at *Netcompany Intrasoft.*
 
-- :pencil: Practicing Data Structures & Algorithms, solving problems on Leetcode. [Profile](https://leetcode.com/kx_01/)
+- :pencil: Sometimes leetcode monkey [Profile](https://leetcode.com/kx_01/)
 
 - 📫 How to reach me **liakos.koulaxis@yahoo.com**
 
-- ❤️ **Vim** user
+- ❤️ **Vim** user baby
 
 - ❤️ https://www.youtube.com/shorts/yhT73UDOfOc ❤️
 
