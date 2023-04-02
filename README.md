@@ -36,7 +36,7 @@
 ## Dotfiles
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=kx0101&repo=.dotfiles&theme=dark&langs_count=3)](https://github.com/kx0101/.dotfiles) 
 
-## Projects    
+## (Some) Projects    
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=kx0101&repo=eshop-sxolh&theme=dark&langs_count=3)](https://github.com/kx0101/eshop-sxolh)
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=kx0101&repo=markdown_editor&theme=dark&langs_count=3)](https://github.com/kx0101/markdown_editor)
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin?username=kx0101&repo=car-meme-game&theme=dark&langs+count=3)](https://github.com/kx0101/car-meme-game)
