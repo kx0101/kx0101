@@ -16,6 +16,8 @@
 
 - ❤️ https://www.youtube.com/shorts/yhT73UDOfOc ❤️
 
+- Best keyboard: https://kinesis-ergo.com/keyboards/advantage360/
+
 </br>
 
 </p>
