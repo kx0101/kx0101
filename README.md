@@ -8,6 +8,8 @@
 
 - :books: Working as a **Junior Software Engineer** at *Netcompany Intrasoft.*
 
+- :pencil2: My blog: https://www.elijahkoulaxis.com/
+
 - :pencil: Sometimes leetcode monkey [Profile](https://leetcode.com/kx_01/)
 
 - 📫 How to reach me **liakos.koulaxis@yahoo.com**
