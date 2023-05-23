@@ -4,7 +4,7 @@
 
 </br>
 
-- 💻: Working as a **Junior Software Engineer** at *Netcompany Intrasoft.*
+- 💻 Working as a **Junior Software Engineer** at *Netcompany Intrasoft.*
 
 - 🔭 I’m currently studying Computer Science at [University of Thessaly](https://ds.uth.gr/)
 
