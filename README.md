@@ -4,9 +4,9 @@
 
 </br>
 
-- 🔭 I’m currently studying Computer Science at [University of Thessaly](https://ds.uth.gr/)
+- 💻: Working as a **Junior Software Engineer** at *Netcompany Intrasoft.*
 
-- :books: Working as a **Junior Software Engineer** at *Netcompany Intrasoft.*
+- 🔭 I’m currently studying Computer Science at [University of Thessaly](https://ds.uth.gr/)
 
 - :pencil2: My blog: https://www.elijahkoulaxis.com/
 
