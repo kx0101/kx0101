@@ -46,5 +46,6 @@
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin?username=kx0101&repo=car-meme-game&theme=dark&langs+count=3)](https://github.com/kx0101/car-meme-game)
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin?username=kx0101&repo=cli-todo-list&theme=dark&langs+count=3)](https://github.com/kx0101/cli-todo-list)
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin?username=kx0101&repo=blog&theme=dark&langs+count=3)](https://github.com/kx0101/blog)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin?username=kx0101&repo=chat-room&theme=dark&langs+count=3)](https://github.com/kx0101/chat-room)
 
 </br>
