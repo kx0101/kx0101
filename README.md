@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently studying Computer Science at [University of Thessaly](https://ds.uth.gr/)
 
-- :pencil2: My blog: https://www.elijahkoulaxis.com/
+- :pencil2: My website/blog: https://www.elijahkoulaxis.com/
 
 - :pencil: Sometimes leetcode monkey [Profile](https://leetcode.com/kx_01/)
 
