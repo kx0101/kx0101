@@ -33,7 +33,6 @@
 
 <h3 align="left">▶ Connect with me:</h3>
 <p align="left">
-  <a href="https://www.instagram.com/liakoskx/" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/instagram.svg" alt="code.bucks" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/elijah-koulaxiskx/" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/linked-in-alt.svg" alt="code_bucks" height="30" width="40" /></a>
 
 </br>
