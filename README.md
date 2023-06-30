@@ -4,19 +4,19 @@
 
 </br>
 
-- 💻 Working as a **Junior Software Engineer** at *Netcompany Intrasoft.*
+- Working as a **Junior Software Engineer** at *Netcompany Intrasoft.*
 
-- 🔭 I’m currently studying Computer Science at [University of Thessaly](https://ds.uth.gr/)
+- I’m currently studying Computer Science at [University of Thessaly](https://ds.uth.gr/)
 
-- :pencil2: My website/blog: https://www.elijahkoulaxis.com/
+- My website/blog: https://www.elijahkoulaxis.com/
 
-- :pencil: Sometimes leetcode monkey [Profile](https://leetcode.com/kx_01/)
+- Sometimes leetcode monkey [Profile](https://leetcode.com/kx_01/)
 
-- 📫 How to reach me **liakos.koulaxis@yahoo.com**
+- How to reach me **liakos.koulaxis@yahoo.com**
 
-- ❤️ **Vim** user baby
+- **Vim** user baby
 
-- ❤️ https://www.youtube.com/shorts/yhT73UDOfOc ❤️
+- https://www.youtube.com/shorts/yhT73UDOfOc 
 
 - Best keyboard: https://kinesis-ergo.com/keyboards/advantage360/
 
