@@ -10,7 +10,7 @@
 
 - My website/blog: https://www.elijahkoulaxis.com/
 
-- Stream on twitch: [Twitch](https://twitch.tv/elijahkx)
+- Streaming on [Twitch](https://twitch.tv/elijahkx)
 
 - Sometimes leetcode monkey [Profile](https://leetcode.com/kx_01/)
 
