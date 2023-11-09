@@ -6,7 +6,7 @@
 
 - Working as a **Software Engineer** at *Netcompany Intrasoft.*
 
-- I’m currently studying Computer Science at [University of Thessaly](https://ds.uth.gr/)
+- BSc Graduate in Computer Science at [University of Thessaly](https://ds.uth.gr/)
 
 - My website/blog: https://www.elijahkoulaxis.com/
 
