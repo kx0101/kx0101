@@ -4,7 +4,7 @@
 
 </br>
 
-- Working as a **Software Engineer** at *Netcompany Intrasoft.*
+- Working as a **Software Engineer** at *Netcompany.*
 
 - BSc Graduate in Computer Science at [University of Thessaly](https://ds.uth.gr/)
 
