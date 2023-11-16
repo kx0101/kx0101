@@ -4,7 +4,7 @@
 
 </br>
 
-- Working as a **Software Engineer** at *Netcompany.*
+- Working as a **Software Engineer** at [Netcompany](https://netcompany.com/).
 
 - BSc Graduate in Computer Science at [University of Thessaly](https://ds.uth.gr/)
 
