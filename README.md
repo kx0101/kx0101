@@ -18,6 +18,8 @@
 
 - **Vim** user baby
 
+- First-ever [crate](https://crates.io/crates/minigrep_elijahkx) in crates.io!
+
 - https://www.youtube.com/shorts/yhT73UDOfOc 
 
 - Best keyboard: https://kinesis-ergo.com/keyboards/advantage360/
