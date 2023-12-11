@@ -18,7 +18,7 @@
 
 - **Vim** user baby
 
-- First-ever [crate](https://crates.io/crates/minigrep_elijahkx) in crates.io!
+- First-ever [crate](https://crates.io/crates/minigrep_elijahkx) on crates.io!
 
 - https://www.youtube.com/shorts/yhT73UDOfOc 
 
