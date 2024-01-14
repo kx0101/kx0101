@@ -1,4 +1,4 @@
-<h2 align="center">Hello 👋, I'm Elijah</h1>
+<h2 align="center">Hello 👋 I'm Elijah</h1>
 <h3 align="center">An ambitious and visionary Software Engineer, who loves to build performant projects, understand memory, and ultimately craft really awesome software!😄
 </h3>
 
