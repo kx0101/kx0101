@@ -4,7 +4,7 @@
 
 </br>
 
-- Working as a **Software Engineer** at [Netcompany](https://netcompany.com/).
+- Working as a **Software Engineer** at [Netcompany](https://netcompany.com/)
 
 - BSc Graduate in Computer Science at [University of Thessaly](https://ds.uth.gr/)
 
@@ -12,7 +12,7 @@
 
 - **Vim** user baby
   
-- *Flexing* my keyboard: https://kinesis-ergo.com/keyboards/advantage360/
+- https://kinesis-ergo.com/keyboards/advantage360/ **user**
 
 - Sometimes streaming on [Twitch](https://twitch.tv/elijahkx)
 
