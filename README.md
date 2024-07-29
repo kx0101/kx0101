@@ -20,7 +20,7 @@
 
 - How to reach me **liakos.koulaxis@yahoo.com**
 
-- First-ever [crate](https://crates.io/crates/minigrep_elijahkx) on crates.io!
+- First-ever [crate](https://crates.io/crates/minigrep_elijahkx) on crates.io - Minigrep!
 
 - https://www.youtube.com/shorts/yhT73UDOfOc 
 
