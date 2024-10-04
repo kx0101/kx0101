@@ -6,7 +6,7 @@
 
 - [Resume](https://docs.google.com/document/d/1Dx8fz930FFIQzZFUwddtt88XsUBah1IsrkZ7ZXLdJSg/edit?usp=sharing)
 
-- Working as a **Software Engineer** at [Netcompany](https://netcompany.com/)
+- Working as a **Software Engineer** at [Kaizen Gaming](https://kaizengaming.com/) @ Kaizen Labs
 
 - BSc Graduate in Computer Science at [University of Thessaly](https://ds.uth.gr/)
 
