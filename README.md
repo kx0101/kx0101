@@ -4,7 +4,7 @@
 
 </br>
 
-- [Resume](https://docs.google.com/document/d/1Dx8fz930FFIQzZFUwddtt88XsUBah1IsrkZ7ZXLdJSg/edit?usp=sharing)
+- [Resume](https://docs.google.com/document/d/1sSNRSMoqby4WGnHWGJUna8RvedWASMQNgUBLnI0MCbc/edit)
 
 - Working as a **Software Engineer** at [Kaizen Gaming](https://kaizengaming.com/) @ Kaizen Labs
 
