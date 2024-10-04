@@ -6,7 +6,7 @@
 
 - [Resume](https://docs.google.com/document/d/1sSNRSMoqby4WGnHWGJUna8RvedWASMQNgUBLnI0MCbc/edit)
 
-- Working as a **Software Engineer** at [Kaizen Gaming](https://kaizengaming.com/) @ Kaizen Labs
+- Working as a **Software Engineer** at [Kaizen Gaming](https://kaizengaming.com/) (Stoiximan/Betano) @ Kaizen Labs
 
 - BSc Graduate in Computer Science at [University of Thessaly](https://ds.uth.gr/)
 
