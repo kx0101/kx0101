@@ -1,6 +1,8 @@
-<h2 align="center">Hello 👋 I'm Elijah</h1>
-<h3 align="center">An ambitious and visionary Software Engineer, who loves to build performant projects, understand memory, and ultimately craft really awesome software!😄
+<h2 align="center">Hello 👋 I'm Elijah, or just Elias</h1>
+<h3 align="center">An ambitious and visionary Software Engineer, who loves to build performant projects, help people and improve processes through building, and ultimately craft really awesome software! 😄
 </h3>
+
+<img src="https://prod-corp-cms.kaizengaming.com/uploads/header_Logo_ef37a574c2.svg" alt="kaizen" />
 
 </br>
 
