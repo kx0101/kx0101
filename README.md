@@ -1,42 +1,35 @@
-<h2 align="center">Hello 👋 I'm Elijah (or just Elias)</h2>
-<h3 align="center">I'm an ambitious and visionary Software Engineer who loves building performant projects, developer tools, and crafting awesome software! 😄</h3>
+### Hi there 👋 I'm Elijah (or Elias)
 
----
+### Software Engineer
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kx0101&show_icons=true&count_private=true&title_color=2ecc71&text_color=a0e9af&icon_color=27ae60&bg_color=2c3e50&hide_border=true" alt="kx0101's GitHub stats" height="250" width="450" />
+- 👨‍💻  Software Engineer with a passion for systems programming, web development, and tooling
+- 🎯  I love building performant, reliable software with **C#**, **Go**, **Rust**, and **TypeScript**
+- 🌍  Based in Greece 🇬🇷
+- 🎓  BSc in Computer Science from [University of Thessaly](https://ds.uth.gr/)
+- 🎮  Trying to become a more active open source contributor!
+
+### Tech I Love
+<div style="display: flex;">
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="40" height="40" alt="C#" /></a>
+  <a href="https://golang.org"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="40" height="40" alt="Go" /></a>
+  <a href="https://www.rust-lang.org"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rust-colored.svg" width="40" height="40" alt="Rust" /></a>
+  <a href="https://www.typescriptlang.org"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="40" height="40" alt="Typescript" /></a>
 </div>
 
-<br />
+### Where do I Work
+- 💻  Software Engineer @ [Kaizen Gaming](https://kaizengaming.com/) (Stoiximan/Betano) - Kaizen Labs
+- 🛠️  Latest Open Source Project: [Minigrep](https://crates.io/crates/minigrep_elijahkx) on Crates.io
 
-**Software Engineer** at [Kaizen Gaming](https://kaizengaming.com/) (Stoiximan/Betano) @ Kaizen Labs  
+### Fun Facts
+- ✨  **Vim** user
+- ⌨️  Advocate of ergonomic keyboards ([Advantage 360](https://kinesis-ergo.com/keyboards/advantage360/))
+- 🎥  Sometimes streaming on [Twitch](https://twitch.tv/elijahkx)
+- 🧠  LeetCode enthusiast [Profile](https://leetcode.com/kx_01/)
 
+### Stats
+<div style="display: flex;"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=kx0101&show_icons=true&count_private=true&title_color=2ecc71&text_color=a0e9af&icon_color=27ae60&bg_color=2c3e50&hide_border=true" alt="kx0101's GitHub stats" height="150" />
+</div>
 
-![Kaizen Logo](https://prod-corp-cms.kaizengaming.com/uploads/header_Logo_ef37a574c2.svg)
-
----
-
-### 🎓 Education
-- **BSc in Computer Science** at [University of Thessaly](https://ds.uth.gr/)
-
-### 🌐 Links
-- [Resume](https://docs.google.com/document/d/1sSNRSMoqby4WGnHWGJUna8RvedWASMQNgUBLnI0MCbc/edit)
-- My [Website/Blog](https://www.elijahkoulaxis.com/)
-
----
-
-### ⚡ Fun Facts
-- **Vim** enthusiast ✨
-- Ergonomic keyboard advocate - [Advantage 360](https://kinesis-ergo.com/keyboards/advantage360/) user
-- Sometimes streaming on [Twitch](https://twitch.tv/elijahkx)
-- First-ever [crate](https://crates.io/crates/minigrep_elijahkx) on crates.io - **Minigrep**
-
----
-
-### 📬 How to reach me
-- **Email**: liakos.koulaxis@yahoo.com
-
----
-
-### 🛠️ Dotfiles
-[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=kx0101&repo=.dotfiles&theme=dark&langs_count=3)](https://github.com/kx0101/.dotfiles)
+### Contact
+- 📬 **Email**: liakos.koulaxis@yahoo.com
