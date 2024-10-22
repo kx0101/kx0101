@@ -22,9 +22,8 @@
 
 ### Fun Facts
 - ✨  **Vim** user
-- ⌨️  Advocate of ergonomic keyboards ([Advantage 360](https://kinesis-ergo.com/keyboards/advantage360/))
+- ⌨️  Best keyboard ([Advantage 360](https://kinesis-ergo.com/keyboards/advantage360/))
 - 🎥  Sometimes streaming on [Twitch](https://twitch.tv/elijahkx)
-- 🧠  LeetCode enthusiast [Profile](https://leetcode.com/kx_01/)
 
 ### Stats
 <div style="display: flex;"> 
