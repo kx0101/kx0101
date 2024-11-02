@@ -25,6 +25,9 @@
 - ⌨️  Best keyboard ([Advantage 360](https://kinesis-ergo.com/keyboards/advantage360/))
 - 🎥  Sometimes streaming on [Twitch](https://twitch.tv/elijahkx)
 
+## Dotfiles
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=kx0101&repo=.dotfiles&theme=dark&langs_count=3)](https://github.com/kx0101/.dotfiles) 
+
 ### Stats
 <div style="display: flex;"> 
   <img src="https://github-readme-stats.vercel.app/api?username=kx0101&show_icons=true&count_private=true&title_color=2ecc71&text_color=a0e9af&icon_color=27ae60&bg_color=2c3e50&hide_border=true" alt="kx0101's GitHub stats" height="150" />
