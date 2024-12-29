@@ -18,7 +18,10 @@
 
 ### Where do I Work
 - 💻  Software Engineer @ [Kaizen Gaming](https://kaizengaming.com/) (Stoiximan/Betano) - Kaizen Labs
-- 🛠️  Latest Open Source Project: [Minigrep](https://crates.io/crates/minigrep_elijahkx) on Crates.io
+
+### Open Source Projects
+- [Minigrep](https://crates.io/crates/minigrep_elijahkx) on Crates.io
+- [ToggleX](https://www.nuget.org/packages/ToggleX) on NuGet
 
 ### Fun Facts
 - ✨  **Vim** user
