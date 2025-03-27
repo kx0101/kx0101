@@ -3,18 +3,16 @@
 ### Software Engineer
 
 - Software Engineer with a passion for systems programming, web development, and tooling.
-- I love building performant, reliable software with **C#**, **Go**, **Rust**, and **TypeScript**
-- Based in Greece 🇬🇷
-- BSc in Computer Science from [University of Thessaly](https://ds.uth.gr/)
+- I love building performant software with **C#**, **Go**, **Rust**
 - Trying to become a more active open source contributor!
 - I LOOOOOOOOOOOOOOOOOVE building tools!!!
+- Based in Greece 🇬🇷
 
 ### Tech I Love
 <div style="display: flex;">
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="40" height="40" alt="C#" /></a>
   <a href="https://golang.org"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="40" height="40" alt="Go" /></a>
   <a href="https://www.rust-lang.org"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rust-colored.svg" width="40" height="40" alt="Rust" /></a>
-  <a href="https://www.typescriptlang.org"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="40" height="40" alt="Typescript" /></a>
 </div>
 
 ### Where do I Work
