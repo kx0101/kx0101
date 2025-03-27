@@ -2,11 +2,12 @@
 
 ### Software Engineer
 
-- 👨‍💻  Software Engineer with a passion for systems programming, web development, and tooling. I LOOOOOOOOOOOOOOOOOVE building tools
-- 🎯  I love building performant, reliable software with **C#**, **Go**, **Rust**, and **TypeScript**
-- 🌍  Based in Greece 🇬🇷
-- 🎓  BSc in Computer Science from [University of Thessaly](https://ds.uth.gr/)
-- 🎮  Trying to become a more active open source contributor!
+- Software Engineer with a passion for systems programming, web development, and tooling.
+- I love building performant, reliable software with **C#**, **Go**, **Rust**, and **TypeScript**
+- Based in Greece 🇬🇷
+- BSc in Computer Science from [University of Thessaly](https://ds.uth.gr/)
+- Trying to become a more active open source contributor!
+- I LOOOOOOOOOOOOOOOOOVE building tools!!!
 
 ### Tech I Love
 <div style="display: flex;">
