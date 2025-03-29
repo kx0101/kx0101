@@ -7,32 +7,25 @@
 - Trying to become a more active open source contributor!
 - Based in Greece 🇬🇷
 
-### Tech I Love
-<div style="display: flex;">
-  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="40" height="40" alt="C#" /></a>
-  <a href="https://golang.org"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="40" height="40" alt="Go" /></a>
-  <a href="https://www.rust-lang.org"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rust-colored.svg" width="40" height="40" alt="Rust" /></a>
-</div>
-
 ### Where do I Work
-- 💻  Software Engineer @ [Kaizen Gaming](https://kaizengaming.com/) (Stoiximan/Betano) - Kaizen Labs
+- Software Engineer @ [Kaizen Gaming](https://kaizengaming.com/) (Stoiximan/Betano) - Kaizen Labs
 
-### Open Source Projects
+### OSS
 - [Minigrep](https://crates.io/crates/minigrep_elijahkx) on Crates.io
 - [ToggleX](https://www.nuget.org/packages/ToggleX) on NuGet
 
 ### Fun Facts
-- ✨  **Vim** user
-- ⌨️  Best keyboard ([Advantage 360](https://kinesis-ergo.com/keyboards/advantage360/))
+- ✨  **Vim** user (btw)
+- ⌨️  Best keyboard ([Advantage 360](https://kinesis-ergo.com/keyboards/advantage360/)) Love it <3
 - 🎥  Sometimes streaming on [Twitch](https://twitch.tv/elijahkx)
 
-## Dotfiles
+## dotfiles
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=kx0101&repo=.dotfiles&theme=dark&langs_count=3)](https://github.com/kx0101/.dotfiles) 
 
-### Stats
+### Stats (getting better)
 <div style="display: flex;"> 
   <img src="https://github-readme-stats.vercel.app/api?username=kx0101&show_icons=true&count_private=true&title_color=2ecc71&text_color=a0e9af&icon_color=27ae60&bg_color=2c3e50&hide_border=true" alt="kx0101's GitHub stats" height="150" />
 </div>
 
 ### Contact
-- 📬 **Email**: liakos.koulaxis@yahoo.com
+- **Email**: liakos.koulaxis@yahoo.com
