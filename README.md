@@ -15,9 +15,9 @@
 - [ToggleX](https://www.nuget.org/packages/ToggleX) on NuGet
 
 ### Fun Facts
-- ✨  **Vim** user (btw)
-- ⌨️  Best keyboard ([Advantage 360](https://kinesis-ergo.com/keyboards/advantage360/)) Love it <3
-- 🎥  Sometimes streaming on [Twitch](https://twitch.tv/elijahkx)
+- **Vim** user (btw)
+- Best keyboard ([Advantage 360](https://kinesis-ergo.com/keyboards/advantage360/)) Love it <3
+- Sometimes streaming on [Twitch](https://twitch.tv/elijahkx)
 
 ## dotfiles
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=kx0101&repo=.dotfiles&theme=dark&langs_count=3)](https://github.com/kx0101/.dotfiles) 
