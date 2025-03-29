@@ -3,9 +3,8 @@
 ### Software Engineer
 
 - Software Engineer with a passion for systems programming, web development, and tooling.
-- I love building performant software with **C#**, **Go**, **Rust**
-- Trying to become a more active open source contributor!
 - I LOOOOOOOOOOOOOOOOOVE building tools!!!
+- Trying to become a more active open source contributor!
 - Based in Greece 🇬🇷
 
 ### Tech I Love
