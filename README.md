@@ -1,14 +1,12 @@
 ### Hi there 👋 I'm Elijah (or Elias)
 
-### Software Engineer
-
-- Software Engineer with a passion for systems programming, web development, and tooling.
+- Passion for systems programming, web development, and tooling.
 - I LOOOOOOOOOOOOOOOOOVE building tools!!!
 - Trying to become a more active open source contributor!
 - Based in Greece 🇬🇷
 
 ### Where do I Work
-- Software Engineer @ [Kaizen Gaming](https://kaizengaming.com/) (Stoiximan/Betano) - Kaizen Labs
+- Software Engineer @ [Kaizen Gaming](https://kaizengaming.com/) (Stoiximan/Betano) - **Kaizen Labs**
 
 ### OSS
 - [Minigrep](https://crates.io/crates/minigrep_elijahkx) on Crates.io
