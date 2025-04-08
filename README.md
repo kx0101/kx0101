@@ -3,7 +3,6 @@
 - Passion for systems programming, web development, and tooling.
 - I LOOOOOOOOOOOOOOOOOVE building tools!!!
 - Trying to become a more active open source contributor!
-- Based in Greece 🇬🇷
 
 ### Where do I Work
 - Software Engineer @ [Kaizen Gaming](https://kaizengaming.com/) (Stoiximan/Betano) - **Kaizen Labs**
