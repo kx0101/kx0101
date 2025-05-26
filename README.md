@@ -1,26 +1,10 @@
-### Hi there 👋 I'm Elijah (or Elias)
+### kx
 
-- Passion for systems programming, web development, and tooling
-- I LOOOOOOOOOOOOOOOOOVE building tools!!!
-- Trying to become a more active open source contributor!
+Just an engineer on a mission to become the best dev I can possibly be. I love learning new things, understanding how things work under the hood, and building tools that make life easier. I embrace the grind, and never back down from a challenge. 
 
-### Where do I Work
-- Software Engineer @ [Kaizen Gaming](https://kaizengaming.com/) (Stoiximan/Betano) - **Kaizen Labs**
-
-### OSS
-- [Minigrep](https://crates.io/crates/minigrep_elijahkx) on Crates.io
-- [ToggleX](https://www.nuget.org/packages/ToggleX) on NuGet
-
-### Fun Facts
-- **Vim** user (btw)
-- Best keyboard ([Advantage 360](https://kinesis-ergo.com/keyboards/advantage360/)) Love it <3
-- Sometimes streaming on [Twitch](https://twitch.tv/elijahkx)
-
-[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=kx0101&repo=.dotfiles&theme=dark&langs_count=3)](https://github.com/kx0101/.dotfiles) 
-
-<div style="display: flex;"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=kx0101&show_icons=true&count_private=true&title_color=2ecc71&text_color=a0e9af&icon_color=27ae60&bg_color=2c3e50&hide_border=true" alt="kx0101's GitHub stats" height="150" />
-</div>
-
-### Contact
-- **Email**: liakos.koulaxis@yahoo.com
+Fun facts
+* Love making my developer workflow more awesome
+* Big fan of communities. Would love to build something cool together if you’ve got a great idea
+* vim, btw
+* Sometimes streaming on [Twitch](https://twitch.tv/elijahkx)
+* Currently building the future at **Kaizen Labs**, the R&D division of [Kaizen Gaming](https://kaizengaming.com/), focused on innovation, experimentation, and next-gen tech in iGaming
