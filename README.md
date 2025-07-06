@@ -4,6 +4,7 @@ Just an engineer on a mission to become the best dev I can possibly be. I love l
 
 Fun facts
 * Love making my developer workflow more awesome
+* Rust is, by far, the best programming language out there
 * Big fan of communities. Would love to build something cool together if you’ve got a great idea
 * vim, btw
 * Sometimes streaming on [Twitch](https://twitch.tv/elijahkx)
