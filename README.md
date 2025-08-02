@@ -4,8 +4,8 @@ Just an engineer on a mission to become the best dev I can possibly be. I love l
 
 Fun facts
 * Love making my developer workflow more awesome
-* Rust is, by far, the best programming language out there
 * Big fan of communities. Would love to build something cool together if you’ve got a great idea
 * vim, btw
-* Sometimes streaming on [Twitch](https://twitch.tv/elijahkx)
+* Streaming on [Twitch](https://twitch.tv/elijahkx)
+* [Blog](https://www.elijahkoulaxis.com)
 * Currently building the future at **Kaizen Labs**, the R&D division of [Kaizen Gaming](https://kaizengaming.com/), focused on innovation, experimentation, and next-gen tech in iGaming
