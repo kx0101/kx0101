@@ -9,5 +9,5 @@ Fun facts
 * vim, btw
 * Streaming on [Twitch](https://twitch.tv/elijahkx)
 * [Blog](https://www.elijahkoulaxis.com)
-* Check out my first open-source tool! [Replayer](https://replayer.online)
-* Currently building the future at **Kaizen Labs**, the R&D division of [Kaizen Gaming](https://kaizengaming.com/), focused on innovation and experimentation
+* Currently building [Replayer](https://replayer.online)
+* Currently working with **Kaizen Labs**, the R&D division of [Kaizen Gaming](https://kaizengaming.com/), focused on innovation and experimentation
