@@ -7,7 +7,7 @@ Fun facts
 * I also love making my developer workflow more awesome
 * Big fan of communities. Would love to build something cool together if you’ve got a great idea, [hit me up](https://www.elijahkoulaxis.com/lets-meet)
 * vim, btw
-* Streaming on [Twitch](https://twitch.tv/elijahkx)
 * [Blog](https://www.elijahkoulaxis.com)
 * Built [Replayer](https://replayer.online)
+* Streaming on [Twitch](https://twitch.tv/elijahkx)
 * Currently working with **Kaizen Labs**, the R&D division of [Kaizen Gaming](https://kaizengaming.com/), focused on innovation and experimentation
