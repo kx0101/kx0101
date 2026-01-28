@@ -1,13 +1,22 @@
-### kx
+### Elijah Koulaxis
 
-Just an engineer on a mission to become the best dev I can possibly be. I love learning new things, understanding how things work under the hood, and building tools that make life easier. I embrace the grind, and never back down from a challenge. 
+Incoming Software Engineer @ **Microsoft** (March 2026)
 
-Fun facts
-* I loooooooooooooove building tools!
-* I also love making my developer workflow more awesome
-* Big fan of communities. Would love to build something cool together if you’ve got a great idea, [hit me up](https://www.elijahkoulaxis.com/lets-meet)
-* vim, btw
-* [Blog](https://www.elijahkoulaxis.com)
-* Built [Replayer](https://replayer.online)
-* Streaming on [Twitch](https://twitch.tv/elijahkx)
-* Currently working with **Kaizen Labs**, the R&D division of [Kaizen Gaming](https://kaizengaming.com/), focused on innovation and experimentation
+Currently Software Engineer @ **Kaizen Gaming - Kaizen Labs**
+
+I’m an engineer obsessed with understanding how things work under the hood. I love learning new things, I like hard problems, and building tools that make life easier. I embrace the grind, and never back down from a challenge.
+
+You might know me from:
+
+- Built [Replayer](https://www.replayer.online/)
+- Obsessing over developer productivity, I **loooooooooooooove** building tools
+- Saying *“vim, btw”* unironically
+- Sometimes I stream while building things live
+
+#### Contact Information:
+- Email: `liakos.koulaxis <at> yahoo.com`
+- Discord: `elijahkx`
+
+> *“Dreams without goals are just dreams. Discipline starts the work, consistency finishes it”*
+
+Big believer in community-driven projects. If you’ve got a solid idea, let’s talk
