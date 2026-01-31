@@ -13,6 +13,7 @@ Fun facts:
 - I use vim, *btw*, unironically
 - Sometimes I stream while building things live
 - Open-source contributions ([Neovim](https://github.com/neovim/neovim), Microsoft OSS)
+- est.01 🇬🇷
 
 #### Contact Information:
 - Email: `liakos.koulaxis <at> yahoo.com`
