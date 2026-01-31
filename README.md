@@ -12,6 +12,7 @@ Fun facts:
 - Obsessing over developer productivity, I **loooooooooooooove** building tools
 - I use vim, *btw*, unironically
 - Sometimes I stream while building things live
+- Open-source contributions ([Neovim](https://github.com/neovim/neovim), Microsoft OSS)
 
 #### Contact Information:
 - Email: `liakos.koulaxis <at> yahoo.com`
