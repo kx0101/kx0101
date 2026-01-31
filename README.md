@@ -1,6 +1,6 @@
 ### Elijah Koulaxis
 
-Incoming Software Engineer @ **Microsoft** (March 2026)
+Incoming Software Engineer II @ **Microsoft** (March 2026)
 
 Currently Software Engineer @ **Kaizen Gaming - Kaizen Labs**
 
