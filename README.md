@@ -1,6 +1,6 @@
 ### Elijah Koulaxis
 
-Software Engineer II @ **Microsoft**
+Software Engineer II @ [Microsoft](https://www.microsoft.com)
 
 I’m an engineer obsessed with understanding how things work under the hood. I love learning new things, I like hard problems, and building tools that make life easier. I embrace the grind, and never back down from a challenge.
 
