@@ -9,8 +9,8 @@ Fun facts:
 - Built [Replayer](https://www.replayer.online/)
 - Obsessing over developer productivity, I **loooooooooooooove** building tools
 - I use vim, *btw*, unironically
-- Sometimes I stream while building things live
-- Open-source contributions ([Neovim](https://github.com/neovim/neovim), Microsoft OSS, [Nushell](https://github.com/nushell/nushell))
+- I [stream](https://www.twitch.tv/elijahkx) while building things live
+- I love contributing to open-source
 - est.01 🇬🇷
 
 #### Contact Information:
