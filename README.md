@@ -7,6 +7,7 @@ I’m an engineer obsessed with understanding how things work under the hood. I 
 Fun facts:
 
 - Built [Replayer](https://www.replayer.online/)
+- Built [BookIt](https://www.bookit.fyi)
 - Obsessing over developer productivity, I **loooooooooooooove** building tools
 - I use vim, *btw*, unironically
 - I [stream](https://www.twitch.tv/elijahkx) while building things live
