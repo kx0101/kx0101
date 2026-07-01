@@ -12,7 +12,7 @@ Fun facts:
 - Obsessing over developer productivity, I **loooooooooooooove** building tools
 - I use vim, *btw*, unironically
 - I [stream](https://www.twitch.tv/elijahkx) while building things live
-- I love contributing to open-source
+- I love what I do and I'm pretty good at it
 - est.01 🇬🇷
 
 #### Contact Information:
