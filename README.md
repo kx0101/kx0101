@@ -1,6 +1,6 @@
 ### Elijah Koulaxis
 
-**Software Engineer II @** [Microsoft](https://www.microsoft.com) for the Power Automate Desktop Runtime Engine team
+**Software Engineer II @** [Microsoft](https://www.microsoft.com) for the Power Automate Runtime Engine team
 
 **Founder @** [BookIt](https://www.bookit.fyi/demo)
 
